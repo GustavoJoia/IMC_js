@@ -46,18 +46,3 @@ export function exibirItems(item) {
     }
 
 }
-
-export function mostrarCategorias(){
-    console.log("===== Alunos abaixo do peso ideal =====")
-    console.log(baixoPeso)
-    console.log("===== Alunos no peso ideal =====")
-    console.log(pesoNormal)
-    console.log("===== Alunos com excesso de peso =====")
-    console.log(excessoPeso)
-    console.log("===== Alunos em obesidade grau I =====")
-    console.log(obesidade1)
-    console.log("===== Alunos em obesidade grau II =====")
-    console.log(obesidade2)
-    console.log("===== Alunos em obesidade grau III =====")
-    console.log(obesidade3)
-}
